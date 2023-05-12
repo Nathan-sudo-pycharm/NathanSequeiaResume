@@ -2,14 +2,14 @@
 #README
 This is a repository containing my resume created using Bootstrap 5, HTML, CSS, and JavaScript.
 
-#Contents
+# Contents
 The repository contains the following files:
 
-index.html: This file contains the HTML code for my resume.
+index.html: This file contains the HTML code for my resume.<br>
 style.css: This file contains the CSS code for styling my resume.
 script.js: This file contains the JavaScript code for implementing some interactive features.
 
-#Getting Started
+# Getting Started
 To view my resume, simply open the index.html file in your web browser.
 
 
@@ -25,5 +25,5 @@ W3Schools HTML tutorial: https://www.w3schools.com/html/
 W3Schools CSS tutorial: https://www.w3schools.com/css/
 W3Schools JavaScript tutorial: https://www.w3schools.com/js/
 
-#License
+# License
 This project is not licensed and is available for personal use only. You are not allowed to copy, distribute, or modify any part of the code or content in this repository with/ without  prior permission from the owner.
