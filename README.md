@@ -1,5 +1,7 @@
-# Nathan-sudo-pycharm.github.io
-#README
+# Nathan-sudo-pycharm.github.io<br>
+http://sequeiranathan.me/<br>
+
+# README
 This is a repository containing my resume created using Bootstrap 5, HTML, CSS, and JavaScript.
 
 # Contents
